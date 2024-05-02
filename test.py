@@ -1,7 +1,4 @@
-# caramba que biblioteca massa.
-# até sugestões de comentario ele faz, caraca.
 import re
-# importou uma biblioteca que eu não tinha, sem me avisar que eu não tinha... deveria?
 import matplotlib.pyplot as plt
 
 def plot_function(x, y, title):
